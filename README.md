@@ -11,20 +11,14 @@ This repository comprises of three project in three folder. The folders are as f
 > * Bug report - _A folder that contains bug report_
 > * Automation framework - _Rest of the folder and files is used for automation_
 > 
-> ### TestApplication
-> For more information, please follow the link [here](https://git.toptal.com/screening/md-samsul-kabir/tree/master/uiautomation/TestApplication)
-> 
-> ### Bug report
-> To access bug report, please [visit](https://git.toptal.com/screening/md-samsul-kabir/tree/master/uiautomation/Bug%20report)
+
 > 
 > ### Automation framework
 > Things has been covered:
 > * Script
 > * CI/CD using Jenkins
 > * Executing from cloud
-> 
-> #### Script
-> Script for automation has been uploaded [here](https://git.toptal.com/screening/md-samsul-kabir/tree/master/uiautomation)
+
 > 
 > #### CI/CD of uiautomation using Jenkins
 > Script can be executed locally using jenkins. Steps to follow for running tests using jenkins are as following:
@@ -54,13 +48,10 @@ This repository comprises of three project in three folder. The folders are as f
 > apiautomation is divided into two section -
 > * Automation framework - _Rest of the folder and files is used for automation_
 > * No bug has been found.
->
-> ### Automation framework
-> Script for REST API automation has been uploaded [here](https://git.toptal.com/screening/md-samsul-kabir/tree/master/apiautomation)
+
 <br>
 
 ## 3. loadtest
 > loadtest has following items:
-> * Load Test Report.pdf -_A summarized report of load testing can be found [here](https://git.toptal.com/screening/md-samsul-kabir/blob/master/loadtest/Load%20Test%20Report.pdf)
 > * reports - Detailed report
 > * jamahook.jmx - Script to perform load testing
